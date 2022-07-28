@@ -1,0 +1,3 @@
+function Pattern(num){
+    
+}
